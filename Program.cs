@@ -65,7 +65,7 @@ namespace Study2
         Console.ReadKey();
 
 
-        C:\Users\user\source\repos\C#\Study2\Study2.sln   
+        // Delete one line   
         }
         
     }
